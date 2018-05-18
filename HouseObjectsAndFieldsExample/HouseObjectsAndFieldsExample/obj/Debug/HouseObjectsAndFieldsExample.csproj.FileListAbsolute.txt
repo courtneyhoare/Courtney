@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\HouseObjectsAndFieldsExample\HouseObjectsAndFieldsExample\bin\Debug\HouseObjectsAndFieldsExample.exe.config
+C:\Users\student\Desktop\Courtney\HouseObjectsAndFieldsExample\HouseObjectsAndFieldsExample\obj\Debug\HouseObjectsAndFieldsExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\HouseObjectsAndFieldsExample\HouseObjectsAndFieldsExample\bin\Debug\HouseObjectsAndFieldsExample.exe
+C:\Users\student\Desktop\Courtney\HouseObjectsAndFieldsExample\HouseObjectsAndFieldsExample\bin\Debug\HouseObjectsAndFieldsExample.pdb
+C:\Users\student\Desktop\Courtney\HouseObjectsAndFieldsExample\HouseObjectsAndFieldsExample\obj\Debug\HouseObjectsAndFieldsExample.exe
+C:\Users\student\Desktop\Courtney\HouseObjectsAndFieldsExample\HouseObjectsAndFieldsExample\obj\Debug\HouseObjectsAndFieldsExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\ListExercise\ListExercise\bin\Debug\ListExercise.exe.config
+C:\Users\student\Desktop\Courtney\ListExercise\ListExercise\bin\Debug\ListExercise.exe
+C:\Users\student\Desktop\Courtney\ListExercise\ListExercise\bin\Debug\ListExercise.pdb
+C:\Users\student\Desktop\Courtney\ListExercise\ListExercise\obj\Debug\ListExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\ListExercise\ListExercise\obj\Debug\ListExercise.exe
+C:\Users\student\Desktop\Courtney\ListExercise\ListExercise\obj\Debug\ListExercise.pdb

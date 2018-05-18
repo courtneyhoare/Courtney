@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\WhileLoopAndDoWhileLoop\WhileLoopAndDoWhileLoop\bin\Debug\WhileLoopAndDoWhileLoop.exe.config
+C:\Users\student\Desktop\Courtney\WhileLoopAndDoWhileLoop\WhileLoopAndDoWhileLoop\bin\Debug\WhileLoopAndDoWhileLoop.exe
+C:\Users\student\Desktop\Courtney\WhileLoopAndDoWhileLoop\WhileLoopAndDoWhileLoop\bin\Debug\WhileLoopAndDoWhileLoop.pdb
+C:\Users\student\Desktop\Courtney\WhileLoopAndDoWhileLoop\WhileLoopAndDoWhileLoop\obj\Debug\WhileLoopAndDoWhileLoop.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\WhileLoopAndDoWhileLoop\WhileLoopAndDoWhileLoop\obj\Debug\WhileLoopAndDoWhileLoop.exe
+C:\Users\student\Desktop\Courtney\WhileLoopAndDoWhileLoop\WhileLoopAndDoWhileLoop\obj\Debug\WhileLoopAndDoWhileLoop.pdb

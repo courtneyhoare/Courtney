@@ -1,0 +1,91 @@
+C# Training:
+
+Stack Overflow and Code Project are good websites to use for developing help. 
+
+- High-level language, (look a bit like natural languages, are able to have a vage idea as to what could be going on)
+- Object-oriented, 
+- Strongly-typed,
+- Developed by Microsoft, 
+
+
+C# Language Basics:
+
+	- Everything in C# needs to be in a program class.
+	- All code that actually does something has to be in a method.
+
+Variables:
+	- A memory storage location that has a name;
+		- Temporary - only lasts as long as the program is running 
+	- Most languages insist on knowing what kind of data is being stored
+	- Some languages decide data types at runtime, based on the contents of the variable. 
+	- Must be declared when they are first used
+	- Can be global or local:
+		- Global - available in the entire program (have as few global variables as possible)
+		- Local - only available in the function or loop where it is declared
+	- Use Local variables over Global variables as much as possible. 
+	- Can be changed. 
+Constants:
+	- Cannot be changed
+
+Data Types:
+	- Computers think in Binary 0's and 1's 
+	- Primitive or elementary data types:
+		- Integer - 20 is represented as 00010100
+		- Float - 3.1459 is represented as 0 10000100 11001001000011111100111
+		- Character - 'a' is 0110 0001 in ASCII and UTF-8
+		- Boolean - true is 00000001 and false is 00000000 (must be a byte - bits dont have addresses)
+	- Derived - Consist of combinations of primitive data types
+		- Strings 
+		- Structs 
+		- Classes used to create new data types in object-orientated programming. 
+
+Selection types:
+	- Logical operators:
+		- == is equal to 
+		- && logical AND
+		- || logical OR 
+		- != not equal to 
+		- ! logical NOT 
+Conditions for IF statements: PAGE 18 in slide print off
+
+Console.ReadKey = only reads one character at a time, whereas Console.ReadLine reads the whole line of characters. 
+
+For Loop:
+	 - Is when you want a piece of code to run a particular number of times.
+	 - Can be used to add to or delete from an array or collection.
+
+Page 24: First example:
+		- for (int i = 0; i < 5; i++)
+		   {
+			Console.WriteLine("Line" + i);
+		    }
+	- The outcome of this first example, it would display:
+	Line 0 
+	Line 1
+	Line 2 
+	Line 3 
+	Line 4 
+	- Then it will stop at Line 4, this is because the numbers go up to less than 5, meaning that it will stop before 5. 
+Page 24: Second example:
+		- for (int i = 0; i < 12; i++)
+		    {
+			Console.WriteLine((i + 1) + " x 2 = " + (i + 1)*2);
+		    }
+	- The outcome of this second example, it would display:
+	when i = 0, then it will be 0 + 1 = 1 then 1 x 2 = 2
+	when i = 1, then it will be 1 + 1 = 2 then 2 x 2 = 4
+	when i = 2, then it will be 2 + 1 = 3 then 3 x 2 = 6 
+	This will continue all the way up to 
+	when i = 11, then it will be 11 + 1 = 12 then 12 x 2 = 24 
+	- It will only go up to 11 because it is less than 12. 
+
+Foreach Loop:
+	- Can only be used for retrieving information. 
+ 
+
+	
+
+
+
+
+

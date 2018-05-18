@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\ForEachExampleFromBook\ForEachExampleFromBook\bin\Debug\ForEachExampleFromBook.exe.config
+C:\Users\student\Desktop\Courtney\ForEachExampleFromBook\ForEachExampleFromBook\bin\Debug\ForEachExampleFromBook.exe
+C:\Users\student\Desktop\Courtney\ForEachExampleFromBook\ForEachExampleFromBook\bin\Debug\ForEachExampleFromBook.pdb
+C:\Users\student\Desktop\Courtney\ForEachExampleFromBook\ForEachExampleFromBook\obj\Debug\ForEachExampleFromBook.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\ForEachExampleFromBook\ForEachExampleFromBook\obj\Debug\ForEachExampleFromBook.exe
+C:\Users\student\Desktop\Courtney\ForEachExampleFromBook\ForEachExampleFromBook\obj\Debug\ForEachExampleFromBook.pdb

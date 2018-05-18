@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\ForAndForeachLoopExercise\ForAndForeachLoopExercise\bin\Debug\ForAndForeachLoopExercise.exe.config
+C:\Users\student\Desktop\Courtney\ForAndForeachLoopExercise\ForAndForeachLoopExercise\obj\Debug\ForAndForeachLoopExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\ForAndForeachLoopExercise\ForAndForeachLoopExercise\bin\Debug\ForAndForeachLoopExercise.exe
+C:\Users\student\Desktop\Courtney\ForAndForeachLoopExercise\ForAndForeachLoopExercise\bin\Debug\ForAndForeachLoopExercise.pdb
+C:\Users\student\Desktop\Courtney\ForAndForeachLoopExercise\ForAndForeachLoopExercise\obj\Debug\ForAndForeachLoopExercise.exe
+C:\Users\student\Desktop\Courtney\ForAndForeachLoopExercise\ForAndForeachLoopExercise\obj\Debug\ForAndForeachLoopExercise.pdb

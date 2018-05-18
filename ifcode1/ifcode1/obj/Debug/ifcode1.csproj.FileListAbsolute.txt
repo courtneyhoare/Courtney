@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\ifcode1\ifcode1\bin\Debug\ifcode1.exe.config
+C:\Users\student\Desktop\Courtney\ifcode1\ifcode1\obj\Debug\ifcode1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\ifcode1\ifcode1\bin\Debug\ifcode1.exe
+C:\Users\student\Desktop\Courtney\ifcode1\ifcode1\bin\Debug\ifcode1.pdb
+C:\Users\student\Desktop\Courtney\ifcode1\ifcode1\obj\Debug\ifcode1.exe
+C:\Users\student\Desktop\Courtney\ifcode1\ifcode1\obj\Debug\ifcode1.pdb

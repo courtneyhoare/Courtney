@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\ArrayExample\ArrayExample\bin\Debug\ArrayExample.exe.config
+C:\Users\student\Desktop\Courtney\ArrayExample\ArrayExample\obj\Debug\ArrayExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\ArrayExample\ArrayExample\bin\Debug\ArrayExample.exe
+C:\Users\student\Desktop\Courtney\ArrayExample\ArrayExample\bin\Debug\ArrayExample.pdb
+C:\Users\student\Desktop\Courtney\ArrayExample\ArrayExample\obj\Debug\ArrayExample.exe
+C:\Users\student\Desktop\Courtney\ArrayExample\ArrayExample\obj\Debug\ArrayExample.pdb

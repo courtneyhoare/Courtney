@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\ArraysExercisePart2\ArraysExercisePart2\bin\Debug\ArraysExercisePart2.exe.config
+C:\Users\student\Desktop\Courtney\ArraysExercisePart2\ArraysExercisePart2\obj\Debug\ArraysExercisePart2.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\ArraysExercisePart2\ArraysExercisePart2\bin\Debug\ArraysExercisePart2.exe
+C:\Users\student\Desktop\Courtney\ArraysExercisePart2\ArraysExercisePart2\bin\Debug\ArraysExercisePart2.pdb
+C:\Users\student\Desktop\Courtney\ArraysExercisePart2\ArraysExercisePart2\obj\Debug\ArraysExercisePart2.exe
+C:\Users\student\Desktop\Courtney\ArraysExercisePart2\ArraysExercisePart2\obj\Debug\ArraysExercisePart2.pdb

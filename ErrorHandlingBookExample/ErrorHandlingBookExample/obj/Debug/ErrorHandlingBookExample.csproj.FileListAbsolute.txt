@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\ErrorHandlingBookExample\ErrorHandlingBookExample\bin\Debug\ErrorHandlingBookExample.exe.config
+C:\Users\student\Desktop\Courtney\ErrorHandlingBookExample\ErrorHandlingBookExample\bin\Debug\ErrorHandlingBookExample.exe
+C:\Users\student\Desktop\Courtney\ErrorHandlingBookExample\ErrorHandlingBookExample\bin\Debug\ErrorHandlingBookExample.pdb
+C:\Users\student\Desktop\Courtney\ErrorHandlingBookExample\ErrorHandlingBookExample\obj\Debug\ErrorHandlingBookExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\ErrorHandlingBookExample\ErrorHandlingBookExample\obj\Debug\ErrorHandlingBookExample.exe
+C:\Users\student\Desktop\Courtney\ErrorHandlingBookExample\ErrorHandlingBookExample\obj\Debug\ErrorHandlingBookExample.pdb

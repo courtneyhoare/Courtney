@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Courtney\SwitchCaseCode\SwitchCaseCode\bin\Debug\SwitchCaseCode.exe.config
+C:\Users\student\Desktop\Courtney\SwitchCaseCode\SwitchCaseCode\bin\Debug\SwitchCaseCode.exe
+C:\Users\student\Desktop\Courtney\SwitchCaseCode\SwitchCaseCode\bin\Debug\SwitchCaseCode.pdb
+C:\Users\student\Desktop\Courtney\SwitchCaseCode\SwitchCaseCode\obj\Debug\SwitchCaseCode.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Courtney\SwitchCaseCode\SwitchCaseCode\obj\Debug\SwitchCaseCode.exe
+C:\Users\student\Desktop\Courtney\SwitchCaseCode\SwitchCaseCode\obj\Debug\SwitchCaseCode.pdb
